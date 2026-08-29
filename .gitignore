@@ -1,0 +1,12 @@
+# Local tooling and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Runtime captures must not be committed
+captures/
+exports/
+screenshots/
+*.har

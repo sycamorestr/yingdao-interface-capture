@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yingdao Interface Capture"
+  short_description: "Capture APIs and output Yingdao JS."
+  default_prompt: "Use $yingdao-interface-capture to inspect this logged-in back-office page and output a runnable Yingdao webpage JavaScript script."
